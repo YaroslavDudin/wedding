@@ -1,0 +1,13 @@
+﻿# Python
+__pycache__/
+*.pyc
+backend/venv/
+backend/wedding.db
+
+# Node
+wedding-app/node_modules/
+wedding-app/dist/
+
+# OS
+.DS_Store
+Thumbs.db
